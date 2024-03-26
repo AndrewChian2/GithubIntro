@@ -6,5 +6,7 @@ int main()
 
     std::cout << "My name is Andrew" << std::endl;
 
+    std::cout << "I am 21 years old" << std::endl;
+
     return 0;
 }
